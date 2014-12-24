@@ -1,0 +1,2161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Willow\n"
+"POT-Creation-Date: 2014-06-24 16:13+0700\n"
+"PO-Revision-Date: 2014-06-24 16:13+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\Dropbox\\VafourRepo\\willow\\willow\n"
+
+#: D:\Dropbox\VafourRepo\willow\willow/404.php:7
+msgid "Ooops, Page Not Found"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/404.php:8
+msgid ""
+"Sorry the page you're looking for could not be found. Try using the search "
+"box below."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:17
+#, php-format
+msgid "Standard : %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:99
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:118
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:138
+msgid "none"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:103
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:119
+msgid "black overlay"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:107
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:120
+msgid "dotted overlay"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:119
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:272
+msgid "default"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:123
+msgid "cover"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:127
+msgid "contain"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:131
+msgid "no repeat"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:143
+msgid "light background / dark text color"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:147
+msgid "dark background / light text color"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:158
+msgid "animate.css: bounce"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:159
+msgid "animate.css: flash"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:160
+msgid "animate.css: pulse"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:161
+msgid "animate.css: rubberBand"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:162
+msgid "animate.css: shake"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:163
+msgid "animate.css: swing"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:164
+msgid "animate.css: tada"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:165
+msgid "animate.css: wobble"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:166
+msgid "animate.css: bounceIn"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:167
+msgid "animate.css: bounceInDown"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:168
+msgid "animate.css: bounceInLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:169
+msgid "animate.css: bounceInRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:170
+msgid "animate.css: bounceInUp"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:171
+msgid "animate.css: bounceOut"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:172
+msgid "animate.css: bounceOutDown"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:173
+msgid "animate.css: bounceOutLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:174
+msgid "animate.css: bounceOutRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:175
+msgid "animate.css: bounceOutUp"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:176
+msgid "animate.css: fadeIn"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:177
+msgid "animate.css: fadeInDown"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:178
+msgid "animate.css: fadeInDownBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:179
+msgid "animate.css: fadeInLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:180
+msgid "animate.css: fadeInLeftBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:181
+msgid "animate.css: fadeInRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:182
+msgid "animate.css: fadeInRightBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:183
+msgid "animate.css: fadeInUp"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:184
+msgid "animate.css: fadeInUpBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:185
+msgid "animate.css: fadeOut"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:186
+msgid "animate.css: fadeOutDown"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:187
+msgid "animate.css: fadeOutDownBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:188
+msgid "animate.css: fadeOutLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:189
+msgid "animate.css: fadeOutLeftBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:190
+msgid "animate.css: fadeOutRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:191
+msgid "animate.css: fadeOutRightBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:192
+msgid "animate.css: fadeOutUp"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:193
+msgid "animate.css: fadeOutUpBig"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:194
+msgid "animate.css: flip"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:195
+msgid "animate.css: flipInX"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:196
+msgid "animate.css: flipInY"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:197
+msgid "animate.css: flipOutX"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:198
+msgid "animate.css: flipOutY"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:199
+msgid "animate.css: lightSpeedIn"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:200
+msgid "animate.css: lightSpeedOut"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:201
+msgid "animate.css: rotateIn"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:202
+msgid "animate.css: rotateInDownLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:203
+msgid "animate.css: rotateInDownRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:204
+msgid "animate.css: rotateInUpLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:205
+msgid "animate.css: rotateInUpRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:206
+msgid "animate.css: rotateOut"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:207
+msgid "animate.css: rotateOutDownLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:208
+msgid "animate.css: rotateOutDownRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:209
+msgid "animate.css: rotateOutUpLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:210
+msgid "animate.css: rotateOutUpRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:211
+msgid "animate.css: slideInDown"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:212
+msgid "animate.css: slideInLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:213
+msgid "animate.css: slideInRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:214
+msgid "animate.css: slideOutLeft"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:215
+msgid "animate.css: slideOutRight"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:216
+msgid "animate.css: slideOutUp"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:217
+msgid "animate.css: hinge"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:218
+msgid "animate.css: rollIn"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/data-sources.php:219
+msgid "animate.css: rollOut"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:6
+msgid "Hero Slide Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:11
+msgid "Background Media"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:14
+msgid "image"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:18
+msgid "video"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:27
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:311
+msgid "Background Image"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:37
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:332
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:102
+msgid "Background Repeat"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:58
+msgid "Video Source"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:63
+msgid "mp4 file is recommended"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:69
+msgid "Video Poster"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:74
+msgid "jpg, png, gif is recommended"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:79
+msgid "Video Ratio"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:82
+msgid "4:3"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:86
+msgid "16:9"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:101
+msgid "Video Mute by Default"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:111
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:295
+msgid "Color Scheme"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:127
+msgid "Slide Text Style"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:131
+msgid "No Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:135
+msgid "Style 1"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:139
+msgid "Style 2"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:143
+msgid "Style 3"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:153
+msgid "Top Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:162
+msgid "Middle Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:167
+msgid ""
+"To enable text rotator, please input some lines separated with line break"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:172
+msgid "Middle Text Rotation Interval (ms)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:179
+msgid "Bottom Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:188
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:206
+msgid "Button Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:197
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:215
+msgid "Button Link"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_hero_slide_options.php:224
+msgid "Enter Animation"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:6
+msgid "Page Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:11
+msgid "Page Title Section"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:12
+msgid ""
+"If you set this page as \"Posts Page\" in your Reading Settings, this option "
+"will be overrided by Default Settings in Theme Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:15
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_post_options.php:14
+msgid "Inherit from Theme Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:19
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_post_options.php:18
+msgid "Disabled"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:23
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_post_options.php:22
+msgid "Enabled"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:34
+msgid "Enable Hero Section"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:42
+msgid "Hero Section"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:47
+msgid "Enable Hero Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:53
+msgid "Pick Slides"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:66
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:316
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:115
+msgid "Background Overlay"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:82
+msgid "Autoslide Interval (ms)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_page_options.php:89
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:289
+msgid "Enable Parallax"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:6
+msgid "Portfolio Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:12
+msgid "Enable Custom Layout"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:13
+msgid ""
+"Using custom layout, you can freely create your own portfolio page with Page "
+"Builder. Please make sure you have already checked \"Portfolio\" post type "
+"in Visual Composer Settings page."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:19
+msgid "Images Layout"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:22
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:105
+msgid "Default"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:26
+msgid "Tiled Layout"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_portfolio_options.php:30
+msgid "Slider"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_post_options.php:6
+msgid "Post Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/metabox/metabox_post_options.php:11
+msgid "Enable Sidebar"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:42
+msgid "Typography"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:52
+#, php-format
+msgid "Column %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:57
+#, php-format
+msgid "Grid of Column %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:65
+#, php-format
+msgid "Offset of Column %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:95
+msgid "Willow Theme Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:99
+msgid "General"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:104
+msgid "Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:109
+msgid "Header Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:114
+msgid "Header Logo (Retina Version)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:115
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:126
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:137
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:148
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:159
+msgid ""
+"Please name your file following the normal version (e.g. logo.png) with a "
+"suffix @2x (e.g. logo@2x.png)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:120
+msgid "Footer Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:125
+msgid "Footer Logo (Retina Version)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:131
+msgid "Portfolio Project Footer Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:136
+msgid "Portfolio Project Footer Logo (Retina Version)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:142
+msgid "Hero Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:147
+msgid "Hero Logo (Retina Version)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:153
+msgid "Preloader Logo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:158
+msgid "Preloader Logo (Retina Version)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:165
+msgid "Favicon"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:170
+msgid "Recommended: .ICO 64x64px size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:171
+msgid "General Site Icon"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:176
+msgid "Recommended: .PNG 60x60px size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:177
+msgid "Icon for iPhone"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:182
+msgid "Recommended: .PNG 120x120px size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:183
+msgid "Icon for iPhone Retina"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:188
+msgid "Recommended: .PNG 76x76px size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:189
+msgid "Icon for iPad"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:194
+msgid "Recommended: .PNG 152x152px size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:195
+msgid "Icon for iPad Retina"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:202
+msgid "Styles"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:210
+msgid "Accent Color"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:217
+msgid "Page Preloader"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:223
+msgid "WPML Language Switcher"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:224
+msgid "Only works if you have WPML installed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:230
+msgid "Global Google Map Color Scheme (JSON)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:231
+msgid ""
+"You can use any Google Map style JSON online generator out there, like [this]"
+"(http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index."
+"html)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:237
+msgid "Page Title"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:243
+msgid "Enable Page Title Section in"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:247
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:359
+msgid "Blog Index (default Posts page)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:251
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:363
+msgid "Blog Archive (category, tag, author, date archive)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:255
+msgid "Blog Single"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:259
+msgid "Single Page (can be overrided via single page editor's metabox)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:263
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:371
+#: D:\Dropbox\VafourRepo\willow\willow/header.php:289
+msgid "Search Result"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:269
+msgid "Portfolio Single"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:273
+msgid "Portfolio Archive"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:284
+msgid "Default Style"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:350
+msgid "Sidebar"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:356
+msgid "Enable Sidebar in"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:367
+msgid "Blog Single (can be overrided via single post editor's metabox)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:382
+msgid "Enable / Disable sidebar on Pages"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:383
+msgid ""
+"On your Page Editor page, you can select the corresponding Page Template to "
+"enable / disable Sidebar. The Default Page Template means you will have "
+"sidebar (and if your page builder is turned off)."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:389
+msgid "Footer"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:395
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:401
+msgid "Number of Columns"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:415
+msgid "Copyright"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:421
+msgid "Bottom Tagline Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:427
+msgid "Legal Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:433
+msgid "Blog Settings"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:439
+msgid "Enable Social Share"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:445
+msgid "Enable Related Posts"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:451
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:691
+msgid "Social Media"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:457
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:481
+msgid "Active Links"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:469
+msgid "Social Media Links"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:475
+msgid "Social Share"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:494
+msgid "What is Social Share"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:495
+msgid ""
+"Social Share Links will appear below your single post content. It lets users "
+"to share your blog post into some social media sites."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:501
+msgid "Custom Scripts"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:507
+msgid "Document Scripts"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:512
+msgid "Head Script"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:517
+msgid "Foot Script"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:523
+#: D:\Dropbox\VafourRepo\willow\willow/admin/option/option.php:528
+msgid "Custom CSS"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comment.php:9
+msgid "Pingback:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comment.php:22
+msgid "Author"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comment.php:25
+#, php-format
+msgid "%s at %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comment.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comment.php:40
+msgid "Reply"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:11
+msgid "1 Comment"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:12
+msgid "% Comments"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:23
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:24
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:40
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:664
+msgid "Name"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:46
+msgid "Email"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:52
+msgid "Website"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:58
+msgid "Enter your comment &hellip;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:63
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:67
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:82
+msgid "Leave a Reply"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:83
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:84
+msgid "Cancel Reply"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/comments.php:85
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:398
+msgid "Post Comment"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/footer-portfolio-ajax.php:4
+msgid "Share This Project"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/footer-portfolio-ajax.php:29
+msgid "Proudly Made by"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-vafpress-framework.php:80
+#: D:\Dropbox\VafourRepo\willow\willow/functions-vafpress-framework.php:81
+msgid "Theme Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:7
+msgid "CSS Animation"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:11
+msgid "No"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:12
+msgid "Top to bottom"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:13
+msgid "Bottom to top"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:14
+msgid "Left to right"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:15
+msgid "Right to left"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:16
+msgid "Appear from center"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:18
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:24
+msgid "Icon"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:27
+msgid "No Icon"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:36
+msgid "Section ID"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:37
+msgid "Used in One Page Scrolling Navigation. Please fill without \"#\"."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:42
+msgid "Background Mode"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:45
+msgid "Image"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:46
+msgid "Google Map"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:51
+msgid "Google Map Latitude / Longitude"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:52
+msgid "Comma separated, e.g. \"-7.9812985, 112.6319264\""
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:59
+msgid "Google Map Zoom"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:87
+msgid "Google Map Marker Latitude / Longitude"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:88
+msgid ""
+"Comma separated, e.g. \"-7.9812985, 112.6319264\". Leave if blank to disable "
+"marker"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:95
+msgid "Background Images"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:97
+msgid ""
+"It is recommended not to configure the Background Image on the Design "
+"Options Tab, please configure your background image here instead."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:106
+msgid "Cover"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:107
+msgid "Contain"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:108
+msgid "No Repeat"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:110
+msgid ""
+"It is recommended not to configure the Background Repeat on the Design "
+"Options Tab, please configure your background repeat here instead."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:126
+msgid "Enable Parallax Background"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:129
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:404
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:420
+msgid "false"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:130
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:403
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:421
+msgid "true"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:135
+msgid "Separator"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:139
+msgid "single-line"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:140
+msgid "triangle-in"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:141
+msgid "triangle-out"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:178
+msgid "Big Title"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:180
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:204
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:249
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:312
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:376
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:443
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:483
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:523
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:549
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:591
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:614
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:635
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:659
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:684
+msgid "Content"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:185
+msgid "Title"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:190
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:235
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:298
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:360
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:427
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:466
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:496
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:535
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:577
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:621
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:645
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:699
+msgid "Extra class name"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:192
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:237
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:300
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:362
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:429
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:468
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:498
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:537
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:579
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:623
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:647
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:701
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:202
+msgid "Blog Grid"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:209
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:381
+msgid "Number of items"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:212
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:384
+msgid "-1 to show all"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:217
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:410
+msgid "Only shows specified categori(es)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:219
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:412
+msgid "Comma separated SLUG of the categori(es)."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:224
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:389
+msgid "Number of columns"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:247
+msgid "Button (Willow Style)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:254
+msgid "Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:256
+msgid "Anchor Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:261
+msgid "Link URL"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:269
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:603
+msgid "Style"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:273
+msgid "black"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:274
+msgid "white"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:275
+msgid "primary"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:276
+msgid "success"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:277
+msgid "info"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:278
+msgid "warning"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:279
+msgid "danger"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:280
+msgid "link"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:286
+msgid "Size"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:289
+msgid "normal"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:290
+msgid "large"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:291
+msgid "small"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:292
+msgid "xs"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:310
+msgid "Counter"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:317
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:448
+msgid "Caption"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:323
+msgid "Start"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:330
+msgid "End (Value)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:337
+msgid "Prefix"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:339
+msgid "String before number"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:344
+msgid "Suffix"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:346
+msgid "String after number"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:351
+msgid "Decimals"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:354
+msgid "Number of decimals. Positive integer only"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:374
+msgid "Portfolio Grid"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:400
+msgid "Enable Category Filter"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:417
+msgid "Enable Pagination"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:441
+msgid "Progress Bar"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:454
+msgid "Value"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:456
+msgid "Valid value from 0 to 100, and without \"%\""
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:461
+msgid "Custom Color"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:479
+msgid "Quotes Carousel"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:489
+msgid "Auto Rotate Duration (mili seconds)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:491
+msgid "Fill 0 to disable"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:506
+msgid "Add quote"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:510
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:511
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:525
+msgid "<p>This is quote content. Click edit button to change this text.</p>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:516
+msgid "Quote"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:529
+msgid "Cite"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:531
+msgid "Cite."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:547
+msgid "Section Heading"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:554
+msgid "Large Heading"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:560
+msgid "Small Heading"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:566
+msgid "Text Alignment"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:569
+msgid "center"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:570
+msgid "left"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:571
+msgid "right"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:589
+msgid "Service Block"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:596
+msgid "Heading Text"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:598
+msgid "Service Heading"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:616
+msgid ""
+"<p>I am a service block. Click edit button to change this text. Lorem ipsum "
+"dolor sit amet, consectetur adipiscing elit.</p>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:633
+msgid "Spacer"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:640
+msgid "Size (px / em / %)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:657
+msgid "Team Member Block"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:666
+msgid "John Doe"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:671
+msgid "Photo"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:673
+msgid "Minimum size recommended: 600px width image"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:678
+msgid "Position"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:686
+msgid ""
+"<p>John Doe is a designer who works remotely from Birmingham, AL. A graduate "
+"of Ole Miss, where he played.</p>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:692
+msgid ""
+"Line break separated. See all available social media types <a href=\"http://"
+"fontawesome.io/icons/#brand\">here</a>. Input format is social_media_type: "
+"your_url. For example, facebook: http://facebook.com."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions-visual-composer.php:694
+msgid ""
+"facebook : http://facebook.com\n"
+"twitter : http://twitter.com\n"
+"linkedin : http://linkedin.com"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:27
+msgid "Heading Typography"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:28
+msgid "Body Typography"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:119
+msgid "Required Plugins"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:287
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:298
+msgid "Header Navigation"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:308
+msgid "Content Sidebar"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:320
+#, php-format
+msgid "Footer Column %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:352
+msgid "Facebook Username"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:353
+msgid "Twitter Username (without @)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:354
+msgid "Google Plus ID"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:365
+msgid "Search on this site"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:367
+msgid "Search"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:413
+msgid "Add New Hero Slide"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:414
+msgid "New Hero Slide"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:415
+msgid "Edit Hero Slide"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:416
+msgid "View Hero Slide"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:417
+msgid "All Hero Slides"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:418
+msgid "Search Hero Slides"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:419
+msgid "Parent Hero Slides:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:420
+msgid "No hero slides found."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:421
+msgid "No hero slides found in Trash."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/functions.php:426
+msgid ""
+"Slides used in Page's Hero section. Goto Page Editor and assign some hero "
+"slides to your hero section."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header-portfolio-ajax.php:65
+msgid "Close"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header-portfolio-ajax.php:75
+msgid "&larr; Previous <span class=\"hidden-xs\">Project</span>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header-portfolio-ajax.php:81
+msgid "Next <span class=\"hidden-xs\">Project</span> &rarr;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header.php:290
+msgid "Portfolio"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header.php:293
+msgid "Blog"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/header.php:294
+msgid "Blog : "
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:158
+msgid "Install Required Plugins"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:159
+msgid "Install Plugins"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:160
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:161
+msgid "Something went wrong."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:172
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:173
+msgid "Return to the dashboard"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:174
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1851
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:175
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:176
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:177
+msgid "Dismiss this notice"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1096
+msgid "External Link"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1101
+msgid "Private Repository"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1104
+msgid "Pre-Packaged"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1108
+msgid "WordPress Repository"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1111
+msgid "Required"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1111
+msgid "Recommended"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1114
+msgid "Not Installed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1116
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1286
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1302
+msgid "Plugin"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1303
+msgid "Source"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1304
+msgid "Type"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1305
+msgid "Status"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1323
+msgid "Install"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1324
+msgid "Activate"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1834
+msgid "Install package not available."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1835
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1836
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1837
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1838
+msgid "Plugin install failed."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1839
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1850
+msgid "Plugin activation failed."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1960
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1961
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1970
+msgid "Show Details"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1961
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1970
+msgid "Hide Details"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1962
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1967
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1968
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1969
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1970
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1971
+msgid "All installations have been completed."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:1972
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-tgm-plugin-activation.php:2063
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-ad-300x250.php:8
+msgid "Willow: Ad 300x250"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-ad-300x250.php:9
+msgid "Ad 300x250"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-ad-300x250.php:54
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:58
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-icon-list.php:69
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-recent-posts.php:61
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-social-links.php:65
+msgid "Title:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-ad-300x250.php:59
+msgid "Link slugs (enter separated):"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:8
+msgid "Willow: Facebook Like Box"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:9
+msgid "Facebook Like Box"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:62
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:66
+msgid "Height in px:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:72
+msgid "Show Faces?"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-facebook-like-box.php:78
+msgid "Show Posts?"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-icon-list.php:8
+msgid "Willow: Icon List"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-icon-list.php:9
+msgid "Display Icon List Set"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-icon-list.php:74
+msgid "Items (line break separated):"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-icon-list.php:76
+msgid ""
+"You can input <a href=\"http://fontawesome.io/\">FontAwesome</a>, or <a href="
+"\"http://solopine.com/icons/linecons\">Linecons</a> icons. And please do not "
+"forget to include the provider prefix. For example:<br/><br/>if you use \"fa-"
+"globe\" from FontAwesome, it should be \"fa fa-globe\".<br/><br/>if you use "
+"\"li_heart\" from Linecons, it should be \"linecons li_heart\"."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-recent-posts.php:8
+msgid "Willow: Recent Posts"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-recent-posts.php:9
+msgid "Recent Posts list with thumbnail images"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-recent-posts.php:65
+msgid "Number of posts to show:"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-recent-posts.php:71
+msgid "Display post date?"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-social-links.php:8
+msgid "Willow: Social Links"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-social-links.php:9
+msgid "Display Social Links Set"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-social-links.php:70
+msgid "Link slugs (line break separated):"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/includes/class-widget-willow-social-links.php:72
+msgid ""
+"First, you need to set the links on Theme Options > Social Media, and do not "
+"put something like this \"facebook: http://facebook.com\", please put the "
+"social media type only e.g. \"facebook\"."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/index.php:11
+#: D:\Dropbox\VafourRepo\willow\willow/page-template-blog-full-width.php:29
+#: D:\Dropbox\VafourRepo\willow\willow/page-template-blog-with-sidebar.php:29
+#: D:\Dropbox\VafourRepo\willow\willow/search.php:48
+msgid "&laquo; Newer Posts"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/index.php:12
+#: D:\Dropbox\VafourRepo\willow\willow/page-template-blog-full-width.php:30
+#: D:\Dropbox\VafourRepo\willow\willow/page-template-blog-with-sidebar.php:30
+#: D:\Dropbox\VafourRepo\willow\willow/search.php:49
+msgid "Older Posts &raquo;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/loop.php:32
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/loop.php:40
+msgid "Read More"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/loop.php:56
+msgid "Next Page &raquo;"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/loop.php:57
+msgid "&laquo; Previous Page"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/search.php:10
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/search.php:17
+#, php-format
+msgid "Showing results %s - %s of %s results found"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/search.php:41
+msgid "Sorry, no results found, please try another keyword"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/single.php:12
+msgid "Share the Love"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/single.php:34
+msgid "About the Author"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/single.php:78
+msgid "You Might Also Like"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/bootstrap.php:88
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:364
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/metabox.php:566
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/metabox.php:588
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:47
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:479
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/classes/shortcodegenerator.php:261
+msgid "Cancel"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/control/upload.php:5
+msgid "Choose File"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:4
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:27
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/set.php:69
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/set.php:70
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vafpress-framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vc_templates/vc_willow_portfolio_grid.php:74
+msgid "All"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vc_templates/vc_willow_portfolio_grid.php:118
+msgid "View Project"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vc_templates/vc_willow_portfolio_grid.php:129
+msgid "Load More"
+msgstr ""
+
+#: D:\Dropbox\VafourRepo\willow\willow/vc_templates/vc_willow_team_member_block.php:38
+msgid "Find me on"
+msgstr ""

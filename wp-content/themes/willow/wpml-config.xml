@@ -1,0 +1,9 @@
+<wpml-config>
+	<admin-texts>
+		<!-- Theme Options -->
+		<key name="willow_option">
+			<key name="copyright_tagline_text" />
+			<key name="copyright_legal_text" />
+		</key>
+	</admin-texts>
+</wpml-config>

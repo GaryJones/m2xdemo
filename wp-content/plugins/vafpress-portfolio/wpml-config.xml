@@ -1,0 +1,14 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_category</taxonomy>
+		<taxonomy translate="1">portfolio_tag</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="translate">_vp_portfolio_info</custom-field>
+		<custom-field action="copy">_vp_portfolio_images</custom-field>
+		<custom-field action="copy">_vp_portfolio_options</custom-field>
+	</custom-fields>
+</wpml-config>

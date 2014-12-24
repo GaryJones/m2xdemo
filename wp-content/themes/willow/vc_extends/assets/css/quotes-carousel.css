@@ -1,0 +1,26 @@
+/* Quote Carousel
+---------------------------------------------------------- */
+.wpb_vc_willow_quotes_carousel > .wpb_element_wrapper {
+  padding: 10px;
+  height: auto;
+  background-image: none;
+  background-color: #fafafa;
+}
+.wpb_vc_willow_quotes_carousel > .wpb_element_wrapper .wpb_vc_willow_quote {
+  border-top: none;
+}
+.wpb_vc_willow_quotes_carousel > .wpb_element_wrapper .add_tab {
+  background: url(../img/add.png) center center no-repeat;
+  font-size: 10px;
+  color: #999999;
+  width: auto;
+  border: none;
+  background-position: 5px center;
+  padding-left: 25px !important;
+  padding-right: 5px !important;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.wpb_vc_willow_quote {
+  cursor: pointer;
+}
